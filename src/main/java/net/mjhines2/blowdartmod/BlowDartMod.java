@@ -6,7 +6,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class BlowDartMod implements ModInitializer {
+
+	//Mod ID
 	public static final String MOD_ID = "blowdartmod";
+
+	//log
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override

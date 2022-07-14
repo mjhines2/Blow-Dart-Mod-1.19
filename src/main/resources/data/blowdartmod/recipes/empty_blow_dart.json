@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "F"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_nugget"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "blowdartmod:empty_blow_dart"
+  }
+}
